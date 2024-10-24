@@ -1,1 +1,1 @@
-# general-and-mental-helath-chatbot
+# mental-health-chatbot

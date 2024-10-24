@@ -1,0 +1,16 @@
+streamlit
+langchain
+ipywidgets
+pandas
+ipywidgets
+langchain
+faiss-cpu
+torch
+transformers
+boto3
+sentence-transformers
+langchain_community
+langchain_core
+pandas
+botocore
+joblib
